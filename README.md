@@ -40,3 +40,16 @@ python archiver.py --help
     ```bash
     python archiver.py x archive.zst ./extracted_data
     ```
+## Демонстрация работы (Скриншоты)
+
+### 1. Архивация файла в формат .bz2
+![Архивация файла в bz2](screenshot1.png)
+
+### 2. Архивация директории в формат .zst
+![Архивация директории в zst](screenshot2.png)
+
+### 3. Распаковка файла из архива .bz2
+![Распаковка файла из bz2](screenshot3.png)
+
+### 4. Распаковка директории из архива .zst
+![Распаковка директории из zst](screenshot4.png)
